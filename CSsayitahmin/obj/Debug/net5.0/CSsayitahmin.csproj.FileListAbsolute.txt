@@ -1,0 +1,16 @@
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.exe
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.deps.json
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.runtimeconfig.json
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.runtimeconfig.dev.json
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.dll
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\ref\CSsayitahmin.dll
+C:\Users\halid\source\repos\CSsayitahmin\bin\Debug\net5.0\CSsayitahmin.pdb
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.AssemblyInfoInputs.cache
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.AssemblyInfo.cs
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.dll
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\ref\CSsayitahmin.dll
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.pdb
+C:\Users\halid\source\repos\CSsayitahmin\obj\Debug\net5.0\CSsayitahmin.genruntimeconfig.cache

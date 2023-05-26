@@ -1,0 +1,16 @@
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.exe
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.deps.json
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.runtimeconfig.json
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.runtimeconfig.dev.json
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.dll
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\ref\sayitahminoyunu.dll
+C:\Users\halid\source\repos\sayitahminoyunu\bin\Debug\net5.0\sayitahminoyunu.pdb
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.AssemblyInfoInputs.cache
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.AssemblyInfo.cs
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.dll
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\ref\sayitahminoyunu.dll
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.pdb
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.genruntimeconfig.cache
+C:\Users\halid\source\repos\sayitahminoyunu\obj\Debug\net5.0\sayitahminoyunu.csproj.AssemblyReference.cache
